@@ -1,9 +1,11 @@
 # Hi 👋 My name is Diaa Qassem
+## 🚀 DevOps & Backend Developer | Cloud Practitioner
 
 ## I am Backend Developer And DevOps Engineer
 
 - 🌍 I'm based in [Egypt]
 - ✉️ You can contact me at [diaa@diaaqassem.com]
+- 💬 Ask me about: DevOps, Linux, Node.js, Infrastructure
 - 🚀 I'm currently working on [Build Infra]
 - ⚡ Fun fact: I love building logic and solving problems 🧠
 
@@ -27,4 +29,22 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 📊 Stats:
+![Diaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)](https://git.io/streak-stats)
+
+### 📜 Certifications
+- AWS Cloud Practitioner
+- Red Hat System Administration I & II
+- Huawei Cloud
+
+### 🔗 Find Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diaa-qassem-625368373)
+[![CV](https://img.shields.io/badge/-Portfolio-12100E?style=flat-square&logo=vercel)](https://drive.google.com/file/d/1KyLT2DHsWr1RCUytChLB1fIPBbV0LkEh/view?usp=sharing)
+
+
+![GitHub Snake dark](https://github.com/DiaaQassem/DiaaQassem/blob/output/github-contribution-grid-snake-dark.svg)
+
+  
