@@ -1,6 +1,11 @@
 # Hi 👋 My name is Diaa Qassem
-## 🚀 DevOps & Backend Developer | Cloud Practitioner
 
+<p align="center">
+  <a href="https://github.com/arthurspk/guiadevbrasil">
+    <img src="./images/guia.png" alt="Guia Extenso de ProgramaГ§ГЈo" width="160" height="160">
+  </a>
+  <h1 align="center"> 🚀 DevOps & Backend Developer | Cloud Practitioner</h1>
+</p>
 - 🌍 I'm based in *Egypt*
 - ✉️ You can contact me at *diaa@diaaqassem.com*
 - 💬 Ask me about: *DevOps, Linux, Node.js, Infrastructure*
