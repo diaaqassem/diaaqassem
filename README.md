@@ -46,6 +46,4 @@
 [![My CV](https://img.shields.io/badge/-My_CV-red?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KyLT2DHsWr1RCUytChLB1fIPBbV0LkEh/view?usp=sharing)
 
 
-![GitHub Snake dark](https://github.com/DiaaQassem/DiaaQassem/blob/output/github-contribution-grid-snake-dark.svg)
-
-  
+![GitHub Snake dark](https://raw.githubusercontent.com/DiaaQassem/DiaaQassem/output/github-contribution-grid-snake-dark.svg)
