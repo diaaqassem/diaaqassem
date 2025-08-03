@@ -1,8 +1,6 @@
 # Hi 👋 My name is Diaa Qassem
 ## 🚀 DevOps & Backend Developer | Cloud Practitioner
 
-## I am Backend Developer And DevOps Engineer
-
 - 🌍 I'm based in *Egypt*
 - ✉️ You can contact me at *diaa@diaaqassem.com*
 - 💬 Ask me about: *DevOps, Linux, Node.js, Infrastructure*
