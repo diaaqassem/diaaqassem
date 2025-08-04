@@ -1,12 +1,12 @@
 # Hi 👋 My name is Diaa Qassem
 
 <p align="center">
-  <a href="![github](https://github.com/user-attachments/assets/9bf28517-95ac-4113-8b31-f8edb99e1a57)
-">
+  <a href="https://github.com/user-attachments/assets/9bf28517-95ac-4113-8b31-f8edb99e1a57">
     <img src="./images/guia.png" alt="Diaa Qassem" width="160" height="160">
   </a>
   <h1 align="center"> 🚀 DevOps & Backend Developer | Cloud Practitioner</h1>
 </p>
+
 - 🌍 I'm based in *Egypt*
 - ✉️ You can contact me at *diaa@diaaqassem.com*
 - 💬 Ask me about: *DevOps, Linux, Node.js, Infrastructure*
