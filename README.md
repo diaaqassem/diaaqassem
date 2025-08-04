@@ -1,8 +1,6 @@
 # Hi 👋 My name is Diaa Qassem
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1HN1gtc3EvVNfN46_7qtK1JSAoktuoVmC/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1HN1gtc3EvVNfN46_7qtK1JSAoktuoVmC/view?usp=sharing" alt="Diaa Qassem" width="160" height="160">
   </a>
   <h1 align="center"> 🚀 DevOps & Backend Developer | Cloud Practitioner</h1>
 </p>
