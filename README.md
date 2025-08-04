@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1HN1gtc3EvVNfN46_7qtK1JSAoktuoVmC/view?usp=sharing">
-    <img src="./images/guia.png" alt="Diaa Qassem" width="160" height="160">
+    <img src="https://drive.google.com/u/0/drive-viewer/AKGpihbJOJt3LrOtQFRH6vOK2j4YBQaeDMYNOvcZ8hDCrURSWynckS92nvIgX-F8YFYrpGTQ3pTSt_d02bE4M1FnC3GYxCgo9I8dyYE=s1600-rw-v1" alt="Diaa Qassem" width="160" height="160">
   </a>
   <h1 align="center"> 🚀 DevOps & Backend Developer | Cloud Practitioner</h1>
 </p>
