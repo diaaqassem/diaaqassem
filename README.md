@@ -1,9 +1,5 @@
-# Hi 👋 My name is Diaa Qassem
-
-<p align="center">
-  </a>
-  <h1 align="center"> 🚀 DevOps & Backend Developer | Cloud Practitioner</h1>
-</p>
+# Hi 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, My name is Diaa Qassem
+## 🚀 DevOps & Backend Developer | Cloud Practitioner
 
 - 🌍 I'm based in *Egypt*
 - ✉️ You can contact me at *diaa@diaaqassem.com*
