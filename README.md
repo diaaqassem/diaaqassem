@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, My name is Diaa Qassem
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">Hi, My name is Diaa Qassem
 ## 🚀 DevOps & Backend Developer | Cloud Practitioner
 
 - 🌍 I'm based in *Egypt*
