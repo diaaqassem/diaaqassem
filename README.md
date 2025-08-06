@@ -34,8 +34,11 @@
 ### 📊 Stats:
 ![Diaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
-### 🔥 GitHub Streak
+
+## 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ### 🔗 Find Me
