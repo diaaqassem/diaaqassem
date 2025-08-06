@@ -36,7 +36,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
+
 
 
 
