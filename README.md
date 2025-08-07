@@ -41,6 +41,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
 
 
+[![Diaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=dark)](https://github.com/DiaaQassem)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DiaaQassem&theme=dark)](https://github.com/DiaaQassem)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiaaQassem&theme=darkhub)](https://github.com/DiaaQassem)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact&theme=dark)](https://github.com/DiaaQassem)
 
 
 
