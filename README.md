@@ -7,8 +7,6 @@
 -  I'm currently working on *Build Infra*
 -  Fun fact: I love building logic and solving problems 
 ---
-[![Repos Badge](https://badges.pufler.dev/repos/DiaaQassem)](https://github.com/DiaaQassem)
----
 
 ###  Certifications
 - AWS Cloud Practitioner(Pending)
