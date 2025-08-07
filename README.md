@@ -33,21 +33,19 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ###  Stats:
-![Diaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=radical)
+[![Diaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=dark)](https://github.com/DiaaQassem)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiaaQassem&theme=darkhub)](https://github.com/DiaaQassem)
 
 ##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
 
 
-[![Diaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=dark)](https://github.com/DiaaQassem)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DiaaQassem&theme=dark)](https://github.com/DiaaQassem)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiaaQassem&theme=darkhub)](https://github.com/DiaaQassem)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact&theme=dark)](https://github.com/DiaaQassem)
 
 
 
