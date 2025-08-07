@@ -1,18 +1,18 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">Hi, My name is Diaa Qassem
-## 🚀 DevOps & Backend Developer | Cloud Practitioner
+##  DevOps | Backend Developer
 
-- 🌍 I'm based in *Egypt*
-- ✉️ You can contact me at *diaa@diaaqassem.com*
-- 💬 Ask me about: *DevOps, Linux, Node.js, Infrastructure*
-- 🚀 I'm currently working on *Build Infra*
-- ⚡ Fun fact: I love building logic and solving problems 🧠
+-  I'm based in *Egypt*
+-  You can contact me at *diaa@diaaqassem.com*
+-  Ask me about: *DevOps, Linux, Node.js, Infrastructure*
+-  I'm currently working on *Build Infra*
+-  Fun fact: I love building logic and solving problems 
 
-### 📜 Certifications
-- AWS Cloud Practitioner
+###  Certifications
+- AWS Cloud Practitioner(Pending)
 - RHCSA
 - HCCDA
 
-### 🛠️ Skills:
+###  Skills:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,11 +31,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 📊 Stats:
+###  Stats:
 ![Diaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
 
@@ -43,7 +43,7 @@
 
 
 
-### 🔗 Find Me
+###  Find Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diaa-qassem-625368373)
 [![My CV](https://img.shields.io/badge/-My_CV-red?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KyLT2DHsWr1RCUytChLB1fIPBbV0LkEh/view?usp=sharing)
 
