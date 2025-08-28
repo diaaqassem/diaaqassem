@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Diaa%20Qassem&fontSize=60&fontColor=ffffff&fontAlignY=35&descAlignY=60&descAlign=50&color=gradient&customColorList=0,2,10,12,20)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Diaa%20Qassem&fontSize=65&fontColor=ffffff&fontAlignY=30&desc=DevOps%20Engineer%20⚡%20Backend%20Developer%20⚙️%20Cloud%20%26%20Automation%20☁️&descSize=25&descAlignY=60&descAlign=50&color=gradient&customColorList=0,2,10,12,20)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation)](https://git.io/typing-svg)
 [![DevOps](https://img.shields.io/badge/Role-DevOps-blue?style=for-the-badge)]() 
 [![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
 
