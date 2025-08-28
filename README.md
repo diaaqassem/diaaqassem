@@ -1,9 +1,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
-
+<div align="center">
 <a href="https://github.com/diaaqassem" align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic">
 </a>
-
+</div>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Diaa%20Qassem&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Backend%20Developer&descAlignY=60&descAlign=50&color=gradient&customColorList=2,10,20,24,30)
 
 
