@@ -64,11 +64,12 @@
 
 
 ##  GitHub Streak
-<h2 align="center"> GitHub Streak </h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiaaQassem&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=DiaaQassem&theme=dark)
+
+</div>
+
 
 
 
