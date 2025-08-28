@@ -28,7 +28,7 @@
 
 ---
 -  I'm based in *Egypt*
--  You can contact me at *diaa@diaaqassem.com*
+-  You can contact me at [![diaa@diaaqassem.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diaa@diaaqassem.com)
 -  Ask me about: *DevOps, Linux, Node.js, Infrastructure*
 -  I'm currently working on *Build Infra*
 -  Fun fact: I love building logic and solving problems 
