@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&width=435&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
-# Hi, I'm Diaa Qassem 👋  
 
 [![DevOps](https://img.shields.io/badge/Role-DevOps-blue?style=for-the-badge)]() 
 [![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
@@ -33,7 +33,7 @@
 ![HCCDA](https://img.shields.io/badge/HCCDA-Huawei_Certified_Cloud_DevOps_Associate-green?style=for-the-badge&logo=huawei&logoColor=white)  
 
 
-###  Skills:
+###  Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -52,7 +52,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-###  Stats:
+###  Stats
 [![Diaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=dark)](https://github.com/DiaaQassem)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
 
