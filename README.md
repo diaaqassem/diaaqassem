@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Diaa%20Qassem&fontSize=65&fontColor=ffffff&fontAlignY=30&desc=DevOps%20Engineer%20⚡%20Backend%20Developer%20⚙️%20Cloud%20%26%20Automation%20☁️&descSize=22&descAlignY=60&descAlign=50&color=gradient&customColorList=2,10,20,30)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Diaa%20Qassem&fontSize=65&fontColor=ffffff&fontAlignY=30&desc=🚀%20DevOps%20Engineer%20|%20Backend%20Developer%20|%20Cloud%20%26%20Automation&descSize=22&descAlignY=60&descAlign=50&color=gradient&customColorList=2,10,20,30,40)
 
 
 
