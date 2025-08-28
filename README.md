@@ -75,13 +75,22 @@
 
 
 
-###  Find Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diaaqassem)
-[![My CV](https://img.shields.io/badge/-My_CV-red?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mhLsonXMeiPrqAMaQ2w_0EukjefKOooS/view?usp=drive_link)
+### Connect with Me  
+
 <p align="center">
-  <a href="mailto:diaa@diaaqassem.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/diaaqassem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/DiaaQassem"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:diaa@diaaqassem.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/diaaqassem">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/DiaaQassem">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1mhLsonXMeiPrqAMaQ2w_0EukjefKOooS/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
+
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/DiaaQassem/DiaaQassem/output/github-contribution-grid-snake-dark.svg)
