@@ -64,8 +64,7 @@
 
 
 ##  GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DiaaQassem&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
 
 
 
