@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Diaa%20Qassem&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Backend%20Developer&descAlignY=60&descAlign=50&color=gradient&customColorList=2,10,20,24,30)
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=0A66C2&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdiaaqassem.github%2Freadme&logo=github&style=for-the-badge)
-
 ![Visitors](https://img.shields.io/badge/Visitors-1200+-0A66C2?style=for-the-badge&logo=github)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
 [![DevOps](https://img.shields.io/badge/Role-DevOps_Engineer-blue?style=for-the-badge)]() 
 [![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
 
