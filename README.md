@@ -1,6 +1,6 @@
 
 <h2 align="center"> Welcome to my GitHub Profile </h2>
-<div align="center"># <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">Hi, My name is Diaa Qassem | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)</div>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">Hi, My name is Diaa Qassem | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
 
 
 
@@ -67,9 +67,9 @@
 
 
 ##  GitHub Streak
-
+<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
-
+</div>
 
 
 
