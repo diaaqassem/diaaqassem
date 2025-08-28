@@ -29,12 +29,14 @@
 ---
 ###  About Me  
 
+### 👨‍💻 About Me  
+
 <p>
-  <span style="color:#1E90FF; font-weight:bold;"> I'm based in</span> <span style="color:#333;">Egypt</span> <br/>
-  <span style="color:#1E90FF; font-weight:bold;"> You can contact me at</span> <span style="color:#333;">diaa@diaaqassem.com</span> <br/>
-  <span style="color:#1E90FF; font-weight:bold;"> Ask me about:</span> <span style="color:#333;">DevOps, Linux, Node.js, Infrastructure</span> <br/>
-  <span style="color:#1E90FF; font-weight:bold;"> I'm currently working on</span> <span style="color:#333;">Build Infra</span> <br/>
-  <span style="color:#1E90FF; font-weight:bold;"> Fun fact:</span> <span style="color:#333;">I love building logic and solving problems</span>
+  <b><font color="#1E90FF">🌍 I'm based in:</font></b> <font color="#333333">Egypt</font> <br/>
+  <b><font color="#1E90FF">📧 You can contact me at:</font></b> <font color="#333333">diaa@diaaqassem.com</font> <br/>
+  <b><font color="#1E90FF">💡 Ask me about:</font></b> <font color="#333333">DevOps, Linux, Node.js, Infrastructure</font> <br/>
+  <b><font color="#1E90FF">🚀 I'm currently working on:</font></b> <font color="#333333">Build Infra</font> <br/>
+  <b><font color="#1E90FF">🎯 Fun fact:</font></b> <font color="#333333">I love building logic and solving problems</font>
 </p>
 
 ---
