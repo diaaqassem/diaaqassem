@@ -76,8 +76,8 @@
 
 
 ###  Find Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diaa-qassem-625368373)
-[![My CV](https://img.shields.io/badge/-My_CV-red?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KyLT2DHsWr1RCUytChLB1fIPBbV0LkEh/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diaaqassem)
+[![My CV](https://img.shields.io/badge/-My_CV-red?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mhLsonXMeiPrqAMaQ2w_0EukjefKOooS/view?usp=drive_link)
 
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/DiaaQassem/DiaaQassem/output/github-contribution-grid-snake-dark.svg)
