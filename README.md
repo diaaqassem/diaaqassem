@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/diaaqassem" align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic" width="100px"
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic" width="200px"
          style="border-radius:0; padding:0; margin:0;">
   </a>
 </div>
