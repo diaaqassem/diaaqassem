@@ -75,9 +75,8 @@
 
 
 
-### Connect with Me  
-
 <p align="center">
+  <h2>Connect with Me  </h2>
   <a href="mailto:diaa@diaaqassem.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
