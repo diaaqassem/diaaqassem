@@ -1,4 +1,14 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">Hi, My name is Diaa Qassem  | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+  Hi, My name is <b>Diaa Qassem</b>
+  &nbsp; | &nbsp;
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
+  &nbsp; | &nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=0A66C2&center=false&vCenter=true&width=380&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation" alt="Typing SVG" />
+  </a>
+</h1>
+
 [![DevOps](https://img.shields.io/badge/Role-DevOps-blue?style=for-the-badge)]() 
 [![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
 
