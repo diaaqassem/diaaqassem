@@ -5,7 +5,23 @@
 
 
 
+---
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Diaa%20Qassem&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Backend%20Developer&descAlignY=55&descAlign=50)
 
+---
+<svg fill="none" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#0A66C2"/>
+      <stop offset="100%" stop-color="#2ECC71"/>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="50%" dy=".35em" text-anchor="middle" font-size="48" font-weight="bold" fill="url(#grad)">
+    Diaa Qassem
+  </text>
+</svg>
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Diaa+Qassem)](https://git.io/typing-svg)
 
 
 ### About Me
