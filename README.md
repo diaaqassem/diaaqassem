@@ -5,14 +5,9 @@
 [![DevOps](https://img.shields.io/badge/Role-DevOps_Engineer-blue?style=for-the-badge)]() 
 [![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
 
-![Visitors](https://img.shields.io/badge/Visitors-1200+-0A66C2?style=for-the-badge&logo=github)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic)
-
-
-![Visitors](https://img.shields.io/badge/dynamic/json?url=https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&query=message&label=Visitors&style=for-the-badge&logo=github&color=0A66C2)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
 
 ---
 
