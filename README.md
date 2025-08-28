@@ -7,7 +7,9 @@
 
 ![Visitors](https://img.shields.io/badge/Visitors-1200+-0A66C2?style=for-the-badge&logo=github)
 
-![Visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=0A66C2&right_color=0A66C2&left_text=Visitors)
+
 
 
 
