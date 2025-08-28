@@ -2,9 +2,6 @@
 
 
 
-[![DevOps](https://img.shields.io/badge/Role-DevOps_Engineer-blue?style=for-the-badge)]() 
-[![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
-
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
