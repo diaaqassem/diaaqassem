@@ -1,7 +1,4 @@
-
-<h2 align="center"> Welcome to my GitHub Profile </h2>
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="90px">Hi, My name is Diaa Qassem | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem)
-
 
 
 ##  DevOps | Backend Developer
@@ -67,9 +64,12 @@
 
 
 ##  GitHub Streak
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=DiaaQassem&theme=dark)
-</div>
+<h2 align="center"> GitHub Streak </h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DiaaQassem&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 
 
