@@ -3,6 +3,18 @@
 
 ##  DevOps | Backend Developer
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&width=435&lines=DevOps+Engineer;Backend+Developer;Cloud+%26+Automation+Enthusiast)](https://git.io/typing-svg)
+---
+
+
+# Hi, I'm Diaa Qassem 👋  
+
+[![DevOps](https://img.shields.io/badge/Role-DevOps-blue?style=for-the-badge)]() 
+[![Backend](https://img.shields.io/badge/Role-Backend_Developer-green?style=for-the-badge)]()
+
+
+
+
 
 ### About Me
 
