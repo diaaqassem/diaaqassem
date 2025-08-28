@@ -8,7 +8,8 @@
 ![Visitors](https://img.shields.io/badge/Visitors-1200+-0A66C2?style=for-the-badge&logo=github)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=0A66C2&right_color=0A66C2&left_text=Visitors)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic)
+
 
 
 
