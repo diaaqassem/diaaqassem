@@ -12,6 +12,10 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic" width="200" height="40">
 
+<a href="https://github.com/diaaqassem">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic" width="220">
+</a>
+
 
 
 ---
