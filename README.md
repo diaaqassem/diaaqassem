@@ -10,8 +10,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&right_color=0A66C2&left_color=gray&left_text=Visitors&style=flat-square" width="200">
-
 
 
 
