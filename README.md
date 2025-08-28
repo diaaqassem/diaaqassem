@@ -36,8 +36,8 @@
 
 ###  Certifications
 - AWS Cloud Practitioner(Pending)
-- RHCSA
-- HCCDA
+- **RHCSA**
+- **HCCDA**
 
 ###  Skills:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
