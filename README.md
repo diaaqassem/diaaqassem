@@ -23,6 +23,16 @@
                 DevOps | Backend
 
 ```
+
+---
+
+## 📌 Featured Projects
+- 🛒 **[E-commerce API](https://github.com/diaaqassem/ecommerce-api)** – Node.js + DevOps (Docker, Ansible, Prometheus, Grafana)  
+- 💬 **[Anonymous Chat App](https://github.com/diaaqassem/anonymous-chat-app)** – Real-time chat, NestJS backend, DevOps pipeline  
+- ☁️ **[Terraform VPC Project](https://github.com/diaaqassem/terraform-vpc-project)** – Modular IaC setup with VPC, NAT Gateway, Load Balancers, and private/public subnets  
+- 🏥 **[Hospital System with Firebase](https://github.com/diaaqassem/hospital-system-firebase)** – Firebase backend for health monitoring  
+
+---
 -  I'm based in *Egypt*
 -  You can contact me at *diaa@diaaqassem.com*
 -  Ask me about: *DevOps, Linux, Node.js, Infrastructure*
