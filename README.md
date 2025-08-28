@@ -31,7 +31,7 @@
 
 <p>
   <b><font color="#1E90FF"> I'm based in:</font></b> <font color="#333333">Egypt</font> <br/>
-  <b><font color="#1E90FF"> You can contact me at:</font></b> <font color="#333333">diaa@diaaqassem.com</font> <br/>
+  <b><font color="#1E90FF"> You can contact me at:</font></b> <font color="#333333"><a href="mailto:diaa@diaaqassem.com"><font color="#333333">diaa@diaaqassem.com</font></a> <br/></font> <br/>
   <b><font color="#1E90FF"> Ask me about:</font></b> <font color="#333333">DevOps, Linux, Node.js, Infrastructure</font> <br/>
   <b><font color="#1E90FF"> I'm currently working on:</font></b> <font color="#333333">Build Infra</font> <br/>
   <b><font color="#1E90FF"> Fun fact:</font></b> <font color="#333333">I love building logic and solving problems</font>
