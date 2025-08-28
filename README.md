@@ -10,6 +10,15 @@
 - **I'm currently working on *Build Infra***
 - **Fun fact: I love building logic and solving problems**
 
+
+### About Me
+
+![Location](https://img.shields.io/badge/🌍_Based_in-Egypt-blue?style=for-the-badge)  
+![Email](https://img.shields.io/badge/📧_Contact-diab%40diaaqassem.com-lightgrey?style=for-the-badge)  
+![Topics](https://img.shields.io/badge/💡_Ask_me_about-DevOps%2C_Linux%2C_Node.js%2C_Infrastructure-yellow?style=for-the-badge)  
+![Work](https://img.shields.io/badge/🚀_Working_on-Build_Infra-orange?style=for-the-badge)  
+![Fun Fact](https://img.shields.io/badge/⚡_Fun_fact-I_love_building_logic_and_solving_problems-green?style=for-the-badge)  
+
 ---
 
 ###  Certifications
