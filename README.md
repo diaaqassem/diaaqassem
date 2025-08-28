@@ -10,7 +10,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&left_color=gray&right_color=blue&left_text=Profile%20Views&style=plastic)
 
-<img src="https://img.shields.io/badge/Visitors-↗%20loading...-0A66C2?style=for-the-badge&logo=github" id="visitor-badge">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=diaaqassem&right_color=0A66C2&left_color=gray&left_text=Visitors&style=flat-square" width="200">
+
 
 
 
