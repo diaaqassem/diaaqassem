@@ -27,11 +27,16 @@
 ```
 
 ---
--  **I'm based in *Egypt***
--  **You can contact me at *diaa@diaaqassem.com***
--  **Ask me about: *DevOps, Linux, Node.js, Infrastructure***
-- **I'm currently working on *Build Infra***
-- **Fun fact: I love building logic and solving problems**
+###  About Me  
+
+<p>
+  <span style="color:#1E90FF; font-weight:bold;">🌍 I'm based in</span> <span style="color:#333;">Egypt</span> <br/>
+  <span style="color:#1E90FF; font-weight:bold;">📧 You can contact me at</span> <span style="color:#333;">diaa@diaaqassem.com</span> <br/>
+  <span style="color:#1E90FF; font-weight:bold;">💡 Ask me about:</span> <span style="color:#333;">DevOps, Linux, Node.js, Infrastructure</span> <br/>
+  <span style="color:#1E90FF; font-weight:bold;">🚀 I'm currently working on</span> <span style="color:#333;">Build Infra</span> <br/>
+  <span style="color:#1E90FF; font-weight:bold;">🎯 Fun fact:</span> <span style="color:#333;">I love building logic and solving problems</span>
+</p>
+
 ---
 
 ###  Certifications
