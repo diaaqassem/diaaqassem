@@ -24,8 +24,6 @@
                 DevOps | Backend
 
 ```
-![trophy](https://github-profile-trophy.vercel.app/?username=diaaqassem&theme=onedark&margin-w=10&margin-h=10&row=1&column=6)
-
 
 ---
 -  I'm based in *Egypt*
