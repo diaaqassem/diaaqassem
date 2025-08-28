@@ -28,9 +28,9 @@
 
 ---
 -  I'm based in *Egypt*
--  You can contact me at [![diaa@diaaqassem.com]()](mailto:diaa@diaaqassem.com)
--  Ask me about: *DevOps, Linux, Node.js, Infrastructure*
--  I'm currently working on *Build Infra*
+-  You can contact me at **diaa@diaaqassem.com**
+-  Ask me about: **DevOps, Linux, Node.js, Infrastructure**
+-  I'm currently working on **Build Infra**
 -  Fun fact: I love building logic and solving problems 
 ---
 
