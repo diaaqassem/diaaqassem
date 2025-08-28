@@ -61,7 +61,6 @@
 [![Diaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=dark)](https://github.com/DiaaQassem)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaaQassem&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DiaaQassem&theme=darkhub)](https://github.com/DiaaQassem)
 
 ##  GitHub Streak
 
