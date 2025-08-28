@@ -6,7 +6,8 @@
 
 
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Diaa%20Qassem&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Backend%20Developer&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Diaa%20Qassem&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20|%20Backend%20Developer&descAlignY=60&descAlign=50&color=gradient&customColorList=0,2,10,12,20)
+
 
 
 ### About Me
