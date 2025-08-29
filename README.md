@@ -4,7 +4,7 @@
 
 ---
 
-### About Me
+## About Me
 
 ![Location](https://img.shields.io/badge/_Based_in-Egypt-blue?style=for-the-badge)  
 [![Email](https://img.shields.io/badge/Contact-diaa@diaaqassem.com-black?style=for-the-badge)](mailto:diaa@diaaqassem.com)<br>
@@ -14,7 +14,7 @@
 
 ---
 
-### Certifications
+# Certifications
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Pending-orange?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Administrator-red?style=for-the-badge&logo=redhat&logoColor=white)  
