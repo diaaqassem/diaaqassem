@@ -14,7 +14,7 @@
 
 ---
 
-# Certifications
+## Certifications
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Pending-orange?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Administrator-red?style=for-the-badge&logo=redhat&logoColor=white)  
@@ -36,7 +36,7 @@
 ###  Programming Languages & Tools  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Shell](https://img.shields.io/badge/-Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Cron](https://img.shields.io/badge/-Cron%20Jobs-2C2C2C?style=for-the-badge&logo=clockify&logoColor=white)  
 
-###  Stats
+##  Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=DiaaQassem&theme=darkhub)](https://github.com/DiaaQassem)
 
 [![Diaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiaaQassem&show_icons=true&theme=dark)](https://github.com/DiaaQassem)
@@ -78,7 +78,7 @@
           ||      |          \\  ||||//''''|
           |DevOps |           |||||||     _|
           |Backend|_____       ````\____/ \
-          ||     ,|   ,|          _/_____/ \
+          ||    , |   ,|          _/_____/ \
           ||  ,'    ,' |         /          |
           ||,'    ,'   |       /          \ |
  _________|/    ,'     |      /           | |
