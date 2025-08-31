@@ -18,7 +18,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Pending-red?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![RHCSA](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Administrator-none?style=for-the-badge&logo=redhat&logoColor=white)  
-![HCCDA](https://img.shields.io/badge/HCCDA-Huawei_Certified_Cloud_DevOps_Associate-none?style=for-the-badge&logo=huawei&logoColor=white)  
+![HCCDA](https://img.shields.io/badge/HCCDA-Huawei_Certified_Cloud_Developer_Associate-none?style=for-the-badge&logo=huawei&logoColor=white)  
 
 
 ##  Skills & Tools  
